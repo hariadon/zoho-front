@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  width:75% !important
+}
+
+.preview{
+	width: 42px;
+	height: 42px;
+	overflow: hidden;
+	left: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
